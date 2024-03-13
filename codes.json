@@ -1,0 +1,13 @@
+{
+    "TestCode": {
+            "time": 10,
+                "boost": 2,
+                    "MaxRedeems": 1
+    },
+    "TestCode2": {
+        "time": 5000,
+            "boost": 20,
+                "MaxRedeems": 1
+    }
+
+}
